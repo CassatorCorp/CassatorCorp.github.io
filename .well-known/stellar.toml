@@ -1,0 +1,22 @@
+# Gold Eagle <cassatorcorp.github.io>
+
+      ACCOUNTS=[
+      "GBG35LS6GFWPZRC2T7O2FGXO2KQRQYLF5237YDWXXRFZRQHDKRP6EM3J",
+      "GBOYFPATHXCTWMDPC2U2KLGMUCJPCWTOYTLJN5U4B76XO7OWKJQEW5YE"]
+
+      [DOCUMENTATION]
+      ORG_NAME="Gold Eagle"
+      ORG_DBA="Gold Eagle"
+      ORG_URL="https://cassatorcorp.github.io"
+      ORG_LOGO="https://cassatorcorp.github.io/photo1_2025.png"
+      ORG_TWITTER="https://x.com/_s_l_a_t_e_"
+      
+      
+      [[CURRENCIES]]
+      name="Gold Eagle"
+      code="Eagle"
+      status="live"
+      issuer="GBG35LS6GFWPZRC2T7O2FGXO2KQRQYLF5237YDWXXRFZRQHDKRP6EM3J"
+      image="https://cassatorcorp.github.io/photo1_2025.png"
+      display_decimals=7
+      fixed_number=1000000000000000
