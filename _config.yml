@@ -1,1 +1,3 @@
-- .well-known
+# _config.yml
+include:
+  - .well-known
