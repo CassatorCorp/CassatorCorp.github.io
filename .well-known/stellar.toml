@@ -1,4 +1,5 @@
-# Gold Eagle <cassatorcorp.github.io>
+# CORRECTED stellar.toml
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 
       ACCOUNTS=[
       "GBG35LS6GFWPZRC2T7O2FGXO2KQRQYLF5237YDWXXRFZRQHDKRP6EM3J",
