@@ -11,6 +11,9 @@ NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
       ORG_URL="https://cassatorcorp.github.io"
       ORG_LOGO="https://cassatorcorp.github.io/photo1_2025.png"
       ORG_TWITTER="@_s_l_a_t_e_"
+      ORG_DESCRIPTION="Issue your own tokens and trade on the SDEX decentralized exchange in real time with no fees.Gold Eagle is the perfect way to decentralize, store, manage, invest, trade, pay and move crypto assets."
+      ORG_TWITTER="https://x.com/_s_l_a_t_e_"
+      ORG_GITHUB="https://cassatorcorp.github.io"
       
       
       [[CURRENCIES]]
@@ -20,4 +23,4 @@ NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
       issuer="GBG35LS6GFWPZRC2T7O2FGXO2KQRQYLF5237YDWXXRFZRQHDKRP6EM3J"
       image="https://cassatorcorp.github.io/photo1_2025.png"
       display_decimals=7
-      fixed_number=1000000000000000
+      fixed_number=100000000000000000
